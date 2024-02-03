@@ -188,3 +188,5 @@ Read the [contributing guide](/CONTRIBUTING.md)
   ![Stars](https://img.shields.io/github/stars/davidkpiano/xstate) ![Last Commit](https://img.shields.io/github/last-commit/davidkpiano/xstate)
 - [zustand](https://github.com/react-spring/zustand) - Bear necessities for state management in React  
   ![Stars](https://img.shields.io/github/stars/react-spring/zustand) ![Last Commit](https://img.shields.io/github/last-commit/react-spring/zustand)
+- [awai](https://github.com/yuriyyakym/awai) - Promised state management library with a unique events system, where every event is thennable, which allows to write logic in a saga-like way using async functions
+  ![Stars](https://img.shields.io/github/stars/yuriyyakym/awai) ![Last Commit](https://img.shields.io/github/last-commit/yuriyyakym/awai)
